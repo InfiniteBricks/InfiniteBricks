@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Cybersecurity Student</h1>
 
-<!--
-**InfiniteBricks/InfiniteBricks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<h2>Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Microsoft Azure</b>
+  - [Azure Sentinel (SIEM) Tutorial ](https://github.com/InfiniteBricks/Azure_Sentinel_SIEM_Tutorial)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<h2>Training:</h2>
+
+- [Try Hack Me](https://tryhackme.com/p/mikeb.)
+
