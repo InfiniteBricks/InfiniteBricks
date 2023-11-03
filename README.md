@@ -1,4 +1,4 @@
-<h1>Cybersecurity Student</h1>
+<h1>A student of Cybersecurity</h1>
 
 <br>
 <h2>Projects:</h2>
